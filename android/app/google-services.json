@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717427742820",
+    "project_id": "khata-diary-655c8",
+    "storage_bucket": "khata-diary-655c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717427742820:android:7f8a9b1a2516f583aea771",
+        "android_client_info": {
+          "package_name": "harsh.dev.khatadiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717427742820-4las1k6uphbis5ovh5gvbla8ck6gvdqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUj-6hu7s9Yu6Moy8IsXUGh224uX3ISI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717427742820-4las1k6uphbis5ovh5gvbla8ck6gvdqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
